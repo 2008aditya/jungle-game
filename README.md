@@ -1,1 +1,1 @@
-# jungle-game
+# project-template-kangaroo-2
